@@ -1,0 +1,19 @@
+.bg-gray{
+    background-color: rgb(255, 255, 255);
+}
+.row{
+    background-color: rgb(129, 87, 94);
+}
+.bg-prima{
+    background-color: rgb(185, 149, 160);
+}
+.bg-succe{
+    background-color: rgb(179, 123, 123);
+}
+.navbar-brand{
+    font-weight: bold
+}
+body{
+    background-image: url(../image/OIP.jpg);
+    opacity: 0.9;
+}
